@@ -1,0 +1,6 @@
+# Env stuff
+.env
+env
+venv/
+# Garbage
+__pycache__/
